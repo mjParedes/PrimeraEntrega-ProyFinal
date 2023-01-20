@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Smart TV 120´",
+    "description": "Televisor 4k ultra sorround",
+    "code": "afr411",
+    "price": 1500000,
+    "stock": 15,
+    "category": "Electro",
+    "thumbnails": "Prod sin imagen",
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "Smart TV 80´",
+    "description": "Televisor 4k ultra sorround",
+    "code": "afr841",
+    "price": 1000000,
+    "stock": 12,
+    "category": "Electro",
+    "thumbnails": "Prod sin imagen",
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "Smart TV 65´",
+    "description": "Televisor 4k ultra sorround",
+    "code": "xzc999",
+    "price": 75000,
+    "stock": 12,
+    "category": "Electro",
+    "thumbnails": "Prod sin imagen",
+    "status": true
+  }
+]
